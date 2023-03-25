@@ -5,7 +5,7 @@ title: Yangtze Blog
 description: Yangtze的个人博客
 keywords: Yangtze,Blog,Java,Html,JavaScript
 author: yangtze
-footerText: '© 2021-2023 Yangtze.<address>webmaster &lt;zy@yangtze.in&gt;</address>'
+footerText: '© 2021-2023 Yangtze. Powered by Jekyll. <address>webmaster &lt;zy@yangtze.in&gt;</address>'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
