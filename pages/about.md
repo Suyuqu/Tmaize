@@ -3,20 +3,27 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+![](https://b2.yangtze.in/pic/img/Saturn%20in%20Freefall%20.jpg)
 
-该博客托管于 GitHub Page，国内解析到腾讯云对象存储，以保证国内外的访问速度，留言页面使用腾讯的“吐个槽”
+是个学生，目前高中。
 
-主题是自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
+喜欢游戏，经常玩《[心灵终结](http://mentalomega.com/ch)》。 
 
-## 相关技能
+喜欢历史，闲暇之余会看一些历史类的作品。
 
-全栈开发，第一份工作主要使用 Java（现在快忘了），使用过一段时间 Golang，目前在做前端 JavaScript、Node.js，主要是 Vue 技术栈。熟悉数据库，Docker，运维相关技术
+喜欢音乐，最喜欢的歌曲是 O-Zone 的《[Dragostea Din Tei](https://music.163.com/#/song?id=4346391)》。
 
-如有远程工作的机会欢迎联系我 😄
+对计算机方面知识爱好广泛——常常肝到深夜。
 
-## 联系我
+喜欢写写博客，对互联网充满热情，对编程和计算机技术充满好奇心。
 
-- Email&nbsp;: [1772314831@qq.com](mailto:1772314831@qq.com)
+喜欢折腾，搞过双系统、云盘，总之关于计算机方面的东西不怕麻烦。
 
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
+人生目标：每件事都要会亿点点。
+
+```
+/*
+ * make joint efforts.
+ * make progress together.
+ */ 
+```
