@@ -3,7 +3,7 @@ layout: mypost
 title: 友情链接
 ---
 
-欢迎各位朋友与我建立友链，如需友链请向我留言<address>webmaster &lt;zy@yangtze.in&gt;</address>，我看到留言后会添加上的，本站的友链信息如下
+欢迎各位朋友与我建立友链，如需友链请向我留言，我看到留言后会添加上的，本站的友链信息如下
 
 ```
 名称：{{ site.title }}
