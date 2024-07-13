@@ -19,7 +19,7 @@ body {
   padding: 0 14px;
   margin: 0 auto;
     /* Screen version */
-  font-family: "pingfang-sc-bold";
+  font-family: "pingfang-sc-bold", sans-serif;
 }
 * {
   -webkit-tap-highlight-color: transparent;
