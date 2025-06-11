@@ -5,7 +5,7 @@ title: 但这显然不是，我叙述我的故事。
 description: 个人博客
 keywords: 博客
 author: bottas77
-footerText: '© 2021-2025. <i>&lt;<del>to@226000.xyz<del>&gt;</i>'
+footerText: '© 2021-2025. 由Github和Netlify驱动'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
