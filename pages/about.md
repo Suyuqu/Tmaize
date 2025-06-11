@@ -3,7 +3,7 @@ layout: mypost
 title: 关于我
 ---
 
-i but a student.
+i am but a student.
 
 喜欢玩《[心灵终结](http://mentalomega.com/ch)》。 
 
