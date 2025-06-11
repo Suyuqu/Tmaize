@@ -2,7 +2,7 @@
 layout: mypost
 title: 问天地好在
 categories: [Jekyll]
-extMath: true
+extMath: flase
 ---
 
 ## 2021-11-27T03:12:44Z
