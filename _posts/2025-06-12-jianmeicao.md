@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 考健美操
-categories: [日记]
+categories: [我叙述我的故事]
 extMath: false
 ---
 
